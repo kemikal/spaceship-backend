@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://clownfish-app-ff483.ondigitalocean.app")
 @RestController
 public class SpaceshipController {
     
